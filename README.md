@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <!-- Texto Animado Digitável em Rosa Vibrante Neon -->
@@ -24,12 +23,16 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonada por tra
 
 ---
 
-### 📊 Estatísticas e Desempenho
+### 📊 Status e Desempenho (Online)
 
 <div align="center">
-  <!-- Card de Estatísticas Gerais (Fundo escuro com detalhes em Rosa Neon) -->
-  <img height="180em" src="https://vercel.app" alt="Estatísticas do GitHub" />
-  
-  <!-- Card de Linguagens Mais Usadas (Fundo escuro com detalhes em Rosa Neon) -->
+  <!-- Badges de Status Estáveis em Rosa Neon -->
+  <img src="https://shields.io" alt="Seguidores" /> &nbsp;
+  <img src="https://shields.io" alt="Estrelas" /> &nbsp;
+  <img src="https://shields.io" alt="Tamanho Portfolio" />
+
+  <br><br>
+
+  <!-- Card de Linguagens (Usando o servidor alternativo rápido) -->
   <img height="180em" src="https://vercel.app" alt="Linguagens mais usadas" />
 </div>
