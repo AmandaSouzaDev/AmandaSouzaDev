@@ -1,13 +1,12 @@
  <div align="center">
 
-  <!-- BANNER DO PERFIL: ADICIONE SUA IMAGEM AQUI QUANDO ESTIVER PRONTA -->
-  <!-- Exemplo: <img src="IMAGEM-DO-BANNER" width="100%" alt="Banner Amanda Souza" /> -->
+  <!-- ESPAÇO PARA SEU BANNER PERSONALIZADO NO FUTURO -->
 
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+Amanda+Souza!+%F0%9F%91%8B;UI%2FUX+Designer+%F0%9F%8E%A8;Front-End+Developer+%F0%9F%92%BB;Estudante+de+ADS+%F0%9F%8E%93" alt="Animação de apresentação" />
 
   <br/><br/>
 
-  <a href="https://github.com/AmandaSouza-Front">
+  <a href="https://github.com/AmandaSouzaDev">
     <img src="https://img.shields.io/badge/♡_MEU_GITHUB-FF1493?style=for-the-badge&labelColor=0D1117" alt="Meu GitHub" />
   </a>
 
@@ -55,26 +54,26 @@ Uno meus conhecimentos em **UI/UX Design, Design Gráfico e Desenvolvimento Web 
 
 <div align="center">
 
-  <a href="https://github.com/AmandaSouza-Front/sistema-gestao-notas-python">
+  <a href="https://github.com/AmandaSouzaDev/sistema-gestao-notas-python">
     <img src="https://img.shields.io/badge/🐍_Sistema_de_Gestão_de_Notas_Python-FF1493?style=for-the-badge&labelColor=0D1117" alt="Sistema de gerenciamento de notas em Python" />
   </a>
 
   <br/><br/>
 
-  <a href="https://github.com/AmandaSouza-Front/Pagina-angelica">
+  <a href="https://github.com/AmandaSouzaDev/Pagina-angelica">
     <img src="https://img.shields.io/badge/💻_Projeto_Cybersecurity-FF1493?style=for-the-badge&labelColor=0D1117" alt="Projeto de cybersecurity" />
   </a>
 
   <br/><br/>
 
-  <a href="https://github.com/AmandaSouza-Front/logo-borboleta-pink">
+  <a href="https://github.com/AmandaSouzaDev/logo-borboleta-pink">
     <img src="https://img.shields.io/badge/🦋_Identidade_Visual_Borboleta_Pink-FF1493?style=for-the-badge&labelColor=0D1117" alt="Identidade visual Borboleta Pink" />
   </a>
 
   <br/><br/>
 
-  <a href="https://github.com/AmandaSouza-Front">
-    <img src="https://img.shields.io/badge/✨_Ver_todos_os_projetos-FF1493?style=for-the-badge&labelColor=0D1117" alt="Ver todos os projetos no GitHub" />
+  <a href="https://github.com/AmandaSouzaDev">
+    <img src="https://img.shields.io/badge/✨_VER_TODOS_OS_PROJETOS-FF1493?style=for-the-badge&labelColor=0D1117" alt="Ver todos os projetos no GitHub" />
   </a>
 
 </div>
